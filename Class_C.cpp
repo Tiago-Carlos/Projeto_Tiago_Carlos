@@ -17,6 +17,7 @@ public:
 
     void MC1() { std::cout << "MC1\n"; };
     void MC2() { std::cout << "MC2\n"; };
+    void MC3() { std::cout << "MC3\n"; };
 };
 
 int main() {
