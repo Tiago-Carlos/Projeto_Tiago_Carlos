@@ -18,6 +18,8 @@ public:
     void MD1() { std::cout << "MD1\n"; };
     void MD2() { std::cout << "MD2\n"; };
     void MD3() { std::cout << "MD3\n"; };
+    
+    void MD4() { std::cout << "MD4\n"; };
 };
 
 int main() {
