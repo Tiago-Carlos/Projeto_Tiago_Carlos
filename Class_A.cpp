@@ -17,6 +17,7 @@ public:
 
     void MA1() { std::cout << "MA1\n"; };
     void MA2() { std::cout << "MA2\n"; };
+    void MA3() { std::cout << "Alteração da classe A a partir do clone"; };
 };
 
 int main() {
